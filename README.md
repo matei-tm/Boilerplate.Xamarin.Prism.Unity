@@ -10,7 +10,7 @@ Basic implementation of a native service consumer
 # Dependencies
 * .NET Standard 2.0
 * Prism.Unity.Forms 7.0.0
-* Xamarin.Fomrs 3.0.0
+* Xamarin.Forms 3.0.0
 
 # Platforms
 * Android
