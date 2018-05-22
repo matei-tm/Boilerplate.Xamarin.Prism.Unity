@@ -8,9 +8,9 @@ Basic implementation of an AuthenticationModule with Login
 Basic implementation of a native service consumer
 
 # Dependencies
-.NET Standard 2.0
-Prism.Unity.Forms 7.0.0
-Xamarin.Fomrs 3.0.0
+* .NET Standard 2.0
+* Prism.Unity.Forms 7.0.0
+* Xamarin.Fomrs 3.0.0
 
 # Platforms
 * Android
